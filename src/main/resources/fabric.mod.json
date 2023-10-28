@@ -2,16 +2,15 @@
 	"schemaVersion": 1,
 	"id": "betterplayeranimations",
 	"version": "${version}",
-	"name": "BetterPlayerAnimations",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "Kelvin's Better Player Animations",
+	"description": "Uses KosmX's Player Animation mod and GeckoLib to add in better animations",
 	"authors": [
-		"Me!"
+		"Kelvin285",
+		"DentedLeft"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "All Rights Reserved",
 	"icon": "assets/betterplayeranimations/icon.png",
 	"environment": "*",
 	"entrypoints": {
